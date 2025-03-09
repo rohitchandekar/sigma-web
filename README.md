@@ -1,2 +1,2 @@
 # sigma-web
-demo for full stack
+demo for full stack.
